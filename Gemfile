@@ -72,3 +72,7 @@ group :test do
 end
 
 gem "faker", "~> 3.2"
+
+gem "bootstrap", "~> 5.3"
+
+gem "jquery-rails", "~> 4.6"
